@@ -1,0 +1,6 @@
+{
+  "webhook": "https://discord.com/api/webhooks/1378554113276510278/w9v9DzJkZo3WxcSrx2abTYAvB-TKZl13IVsS4KYZZUBQy-zhxYl1T2LahU0_LBXj4ZnA",
+  "alert_command": "msg * Unauthorized search attempt detected 🚨 ALERT:  Just Hacked On Is Watching You 🚨",
+  "trigger_command": "whoami",
+  "trigger_enabled": false
+}
